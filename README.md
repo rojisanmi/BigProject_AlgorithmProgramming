@@ -1,0 +1,1 @@
+This repository contains a major programming algorithm assignment in the form of a vending machine application built with Go. The application simulates the functions of an automatic vending machine,such as product selection, payment, and change return, while implementing fundamental programming algorithm concepts.
